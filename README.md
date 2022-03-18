@@ -1,7 +1,6 @@
-### Hi there 👋
+### 
 
-I'm sukmin Kang, a growing developer💪
-I want to be a person who give you more comportable tools 🧚‍♂️
+
 <!--
 **mini1115/mini1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 😎 Tech that I have used at least once 😎
+--> 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header:&text=Hi there 👋%20&fontSize=90" />
+I'm sukmin Kang, a growing developer💪
+I want to be a person who give you more comportable tools 🧚‍♂️ 
+
+	
+😎 Tech that I have used at least once 😎
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
